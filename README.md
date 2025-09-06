@@ -70,7 +70,7 @@ From the root directory:
 1. Make sure you have Node.js installed
 2. Run `npm run install:all` to install all dependencies
 3. Set up your environment variables for the backend (MongoDB connection, JWT secret, etc.)
-4. Run `npm run dev` to start both services
+4. Run `npm run dev` to start both services.
 5. Open your browser to the frontend URL (typically http://localhost:5173)
 
 The backend and frontend will run simultaneously and reload automatically when you make changes. 
